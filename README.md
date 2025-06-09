@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vasim-E
 - 👀 I’m interested in Web Dovelepment and Software Devolepment
-- 🌱 I’m currently learning Bsc Electronics
+- 🌱 I’m graduated in Bsc Electronics
 - 💞️ I’m looking to collaborate on Software Companies
 
 <!---
